@@ -1,0 +1,10 @@
+/Users/nuhmohamud/Documents/web/bin/Debug/netcoreapp2.0/web.deps.json
+/Users/nuhmohamud/Documents/web/bin/Debug/netcoreapp2.0/web.runtimeconfig.json
+/Users/nuhmohamud/Documents/web/bin/Debug/netcoreapp2.0/web.runtimeconfig.dev.json
+/Users/nuhmohamud/Documents/web/bin/Debug/netcoreapp2.0/web.dll
+/Users/nuhmohamud/Documents/web/bin/Debug/netcoreapp2.0/web.pdb
+/Users/nuhmohamud/Documents/web/obj/Debug/netcoreapp2.0/web.csproj.CoreCompileInputs.cache
+/Users/nuhmohamud/Documents/web/obj/Debug/netcoreapp2.0/web.AssemblyInfoInputs.cache
+/Users/nuhmohamud/Documents/web/obj/Debug/netcoreapp2.0/web.AssemblyInfo.cs
+/Users/nuhmohamud/Documents/web/obj/Debug/netcoreapp2.0/web.dll
+/Users/nuhmohamud/Documents/web/obj/Debug/netcoreapp2.0/web.pdb
