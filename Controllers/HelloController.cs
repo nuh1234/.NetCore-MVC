@@ -4,7 +4,7 @@ namespace web {
     public class HelloController : Controller{
         [HttpGetAtribute]
         public string index() {
-            return "Hello World";
+            return "Browser loaded";
         }
     }
 }
